@@ -10,7 +10,7 @@
 
 |                                                                                                                                                            |                                                                         |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=909ma&hide=html,css,PLSQL,TeX)](https://github.com/909ma/github-readme-stats) | ![Mazandi](http://mazandi.herokuapp.com/api?handle=xn132hb7&theme=warm) |
+| [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=909ma&hide=html,css,PLSQL,TeX)](https://github.com/909ma/) | ![Mazandi](http://mazandi.herokuapp.com/api?handle=xn132hb7&theme=warm) |
 
 </div>
 
