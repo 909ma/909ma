@@ -4,6 +4,7 @@
 
 
 [https://909ma.github.io/](https://909ma.github.io/)  
+[https://909ma.tistory.com/](https://909ma.tistory.com/)  
 [Portfolio](https://909ma.github.io/portfolio/portfolio.html)  
  
 <!--
