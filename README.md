@@ -6,6 +6,8 @@
 [https://909ma.github.io/](https://909ma.github.io/)  
 [https://909ma.tistory.com/](https://909ma.tistory.com/)  
 [Portfolio](https://909ma.github.io/portfolio/portfolio.html)  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F909ma&count_bg=%23C83D3D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  
 <!--
 
